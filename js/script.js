@@ -35,12 +35,7 @@ const songs = [
     name: 'metric-1',
     displayName: 'Front Row (Remix)',
     artist: 'Metric/Jacinto Design',
-  },
-  {
-    name: 'Tea Song of the Xiang River',
-    displayName: 'Tea Song of the Xiang River',
-    artist: '湘江茶歌',
-  },
+  }
 ];
 
 let isPlaying = false;
